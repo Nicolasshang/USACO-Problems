@@ -1,2 +1,3 @@
 # Random-USACO-Stuff
-When I get bored, I solve easy USACO problems
+
+This is a repo of the USACO problems that I did.
