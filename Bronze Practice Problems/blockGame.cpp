@@ -14,7 +14,6 @@ int main(){
       // Adding an int to a char will automatically convert it to its corresponding ASCII value.
       // Also, C++ automatically converts all the chars in the strings to ASCII.
       v[j] += max(count(a.begin(), a.end(), 'a' + j), count(b.begin(), b.end(), 'a' + j));
-      cout << 'a' + j << endl;
     }
   }
 
