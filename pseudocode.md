@@ -1,1 +1,1 @@
-not getting silver this year :( wallahi its over
+not getting silver this year :( wallahi im finished
